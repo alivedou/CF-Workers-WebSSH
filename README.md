@@ -53,7 +53,7 @@ Cloudflare Worker
 
 ## 部署教程
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?repository=https://github.com/cmliu/CF-Workers-WebSSH)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?repository=https://github.com/alivedou/CF-Workers-WebSSH)
 
 点击上方按钮，授权 Cloudflare 读取你的 GitHub 仓库后即可一键创建并部署 Worker。部署平台会自动读取仓库中的 `wrangler.toml`，并以 `npm run deploy` 作为构建命令完成首次构建与发布。
 
